@@ -25,8 +25,7 @@ One Pair|42.2569%
   Short example of implementation of Signal, Slot, qmlRegisterType and importing qrc files.
 
 ## Pull Request is welcome.
-  This repo is for student. So, your pull request of above 2 features may not be merged.
-A Studying of reviewing pull request is one of the aim of this project.  
+  This repo is for education. So, your pull request of above 2 features may not be merged.
 
 #### Author
   kou.ouchi@division-engineering.com
@@ -36,11 +35,13 @@ A Studying of reviewing pull request is one of the aim of this project.
   2. python 3.7.6 or higher.
 
 #### How To Run:
-1. Start Anaconda Command Prompt.
-2. Type "Build_and_Run.bat" and Hit Enter.
+1. Start Command Prompt. 
+2. Change current directory to this repository directory.
+3. Run "Build_and_Run.bat".
+
 #### Note
 1. If you want PySide version, ping me. It's easy to convert between PySide and PyQt.
-![Diffs between PySide and PyQt](<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The difference between PyQt5 and PySide2 : <a href="https://t.co/ignqjiavHd">pic.twitter.com/ignqjiavHd</a></p>&mdash; Division Engineering (@DivisionEng) <a href="https://twitter.com/DivisionEng/status/1327976702337642497?ref_src=twsrc%5Etfw">November 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>)
+![Diffs between PySide and PyQt](<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The difference between PyQt5 and PySide2 : <a href="https://t.co/ignqjiavHd">pic.twitter.com/ignqjiavHd</a></p>&mdash; Division Engineering (@DivisionEng) <a href="https://twitter.com/DivisionEng/status/1327976702337642497?ref_src=twsrc%5Etfw">November 15, 2020</a></blockquote>)
 2. Anaconda is the best way of setup env.
 
 ## References
